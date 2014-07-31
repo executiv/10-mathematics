@@ -1,0 +1,105 @@
+\contentsline {section}{\numberline {1}Linear Relations}{1}
+\contentsline {subsection}{\numberline {1.1}Algebra reiterated}{1}
+\contentsline {subsection}{\numberline {1.2}Algebraic fractions}{2}
+\contentsline {subsection}{\numberline {1.3}Solving linear equations}{4}
+\contentsline {subsection}{\numberline {1.4}Inequalities}{5}
+\contentsline {subsection}{\numberline {1.5}Graphing straight lines}{6}
+\contentsline {subsection}{\numberline {1.6}Finding a rule for a linear graph}{9}
+\contentsline {subsection}{\numberline {1.7}Length and midpoint of a line segment}{9}
+\contentsline {subsection}{\numberline {1.8}Perpendicular and parallel lines}{10}
+\contentsline {subsection}{\numberline {1.9}Simultaneous equations - substitution}{10}
+\contentsline {subsection}{\numberline {1.10}Simultaneous equations - elimination}{11}
+\contentsline {subsection}{\numberline {1.11}Further applications of simultaneous equations}{12}
+\contentsline {subsection}{\numberline {1.12}Half planes}{13}
+\contentsline {section}{\numberline {2}Geometry}{16}
+\contentsline {subsection}{\numberline {2.1}Geometry reiterated}{16}
+\contentsline {subsection}{\numberline {2.2}Congruent triangles}{16}
+\contentsline {subsection}{\numberline {2.3}Investigating parallelograms using congruence}{16}
+\contentsline {subsection}{\numberline {2.4}Similar figures}{16}
+\contentsline {subsection}{\numberline {2.5}Proving similar triangles}{16}
+\contentsline {subsection}{\numberline {2.6}Circles and chord properties}{16}
+\contentsline {subsection}{\numberline {2.7}Angle properties of circles - theorems 1 and 2}{16}
+\contentsline {subsection}{\numberline {2.8}Angle properties of circles - theorems 3 and 4}{16}
+\contentsline {subsection}{\numberline {2.9}Tangents}{16}
+\contentsline {subsection}{\numberline {2.10}Intersecting chords, secants, and tangents}{16}
+\contentsline {section}{\numberline {3}Indices and Surds}{17}
+\contentsline {subsection}{\numberline {3.1}Irrational numbers and surds}{17}
+\contentsline {subsection}{\numberline {3.2}Adding and subtracting surds}{19}
+\contentsline {subsection}{\numberline {3.3}Multiplying and dividing surds}{20}
+\contentsline {subsection}{\numberline {3.4}Binomial products}{22}
+\contentsline {subsection}{\numberline {3.5}Rationalising the denominator}{23}
+\contentsline {subsection}{\numberline {3.6}Index laws reiterated}{24}
+\contentsline {subsection}{\numberline {3.7}Negative indices}{25}
+\contentsline {subsection}{\numberline {3.8}Scientific notation}{26}
+\contentsline {subsection}{\numberline {3.9}Rational indices}{27}
+\contentsline {subsection}{\numberline {3.10}Exponential equations}{27}
+\contentsline {subsection}{\numberline {3.11}Exponential growth and compound interest}{29}
+\contentsline {section}{\numberline {4}Trigonometry}{31}
+\contentsline {subsection}{\numberline {4.1}Trigonometric ratios}{31}
+\contentsline {subsection}{\numberline {4.2}Finding angles}{32}
+\contentsline {subsection}{\numberline {4.3}Applications in two dimensions}{33}
+\contentsline {subsection}{\numberline {4.4}Bearings}{33}
+\contentsline {subsection}{\numberline {4.5}Applications in three dimensions}{33}
+\contentsline {subsection}{\numberline {4.6}Obtuse angles and exact values}{33}
+\contentsline {subsection}{\numberline {4.7}The sine rule}{34}
+\contentsline {subsection}{\numberline {4.8}The cosine rule}{36}
+\contentsline {subsection}{\numberline {4.9}Area of a triangle}{36}
+\contentsline {subsection}{\numberline {4.10}The four quadrants}{36}
+\contentsline {subsection}{\numberline {4.11}Graphs of trigonometric functions}{36}
+\contentsline {section}{\numberline {5}Quadratic equations}{37}
+\contentsline {subsection}{\numberline {5.1}Expanding expressions}{37}
+\contentsline {subsection}{\numberline {5.2}Factorising expressions}{37}
+\contentsline {subsection}{\numberline {5.3}Factorising trinomials of the form $x^2 + bx + c$}{37}
+\contentsline {subsection}{\numberline {5.4}Factorising quadratic trinomials of the form $ax^2 + bx + c$}{37}
+\contentsline {subsection}{\numberline {5.5}Factorising by completing the square}{37}
+\contentsline {subsection}{\numberline {5.6}Solving quadratic equations}{37}
+\contentsline {subsection}{\numberline {5.7}Applications of quadratics}{37}
+\contentsline {subsection}{\numberline {5.8}Solving quadratic equations by completing the square}{37}
+\contentsline {subsection}{\numberline {5.9}The quadratic formula}{37}
+\contentsline {section}{\numberline {6}Measurement}{38}
+\contentsline {subsection}{\numberline {6.1}Length reiterated}{38}
+\contentsline {subsection}{\numberline {6.2}Pythagoras' theorem}{39}
+\contentsline {subsection}{\numberline {6.3}Area}{39}
+\contentsline {subsection}{\numberline {6.4}Surface area -- prisms and cylinders}{41}
+\contentsline {subsection}{\numberline {6.5}Surface area -- pyramids and cones}{41}
+\contentsline {subsection}{\numberline {6.6}Volume -- prisms and cylinders}{41}
+\contentsline {subsection}{\numberline {6.7}Volume -- pyramids and cones}{42}
+\contentsline {subsection}{\numberline {6.8}Spheres}{42}
+\contentsline {section}{\numberline {7}Parabolas and other graphs}{44}
+\contentsline {subsection}{\numberline {7.1}Exploring parabolas}{44}
+\contentsline {subsection}{\numberline {7.2}Sketching parabolas with transformations}{44}
+\contentsline {subsection}{\numberline {7.3}Sketching $y = x^2 + bx + c$ using factorisation}{44}
+\contentsline {subsection}{\numberline {7.4}Sketching by competing the square}{44}
+\contentsline {subsection}{\numberline {7.5}Sketching using the quadratic formula}{44}
+\contentsline {subsection}{\numberline {7.6}Applications of parabolas}{44}
+\contentsline {subsection}{\numberline {7.7}Graphs of circles}{44}
+\contentsline {subsection}{\numberline {7.8}Graphs of exponentials}{44}
+\contentsline {subsection}{\numberline {7.9}Graphs of hyperbolas}{44}
+\contentsline {subsection}{\numberline {7.10}Further transformations of graphs}{44}
+\contentsline {section}{\numberline {8}Probability}{45}
+\contentsline {subsection}{\numberline {8.1}Probability reiterated}{45}
+\contentsline {subsection}{\numberline {8.2}Unions and intersections}{46}
+\contentsline {subsection}{\numberline {8.3}The addition rule}{47}
+\contentsline {subsection}{\numberline {8.4}Conditional probability}{48}
+\contentsline {subsection}{\numberline {8.5}Multiple events using tables}{48}
+\contentsline {subsection}{\numberline {8.6}Using tree diagrams}{49}
+\contentsline {subsection}{\numberline {8.7}Independent events}{49}
+\contentsline {section}{\numberline {9}Statistics}{51}
+\contentsline {subsection}{\numberline {9.1}Statistical graphs reiterated}{51}
+\contentsline {subsection}{\numberline {9.2}Quartiles}{51}
+\contentsline {subsection}{\numberline {9.3}Boxplots}{51}
+\contentsline {subsection}{\numberline {9.4}Time series data}{51}
+\contentsline {subsection}{\numberline {9.5}Bivariate data and scatter plots}{51}
+\contentsline {subsection}{\numberline {9.6}Line of best fit by eye}{51}
+\contentsline {subsection}{\numberline {9.7}Standard deviation}{51}
+\contentsline {subsection}{\numberline {9.8}Linear regression}{51}
+\contentsline {section}{\numberline {10}Logarithms and polynomials}{52}
+\contentsline {subsection}{\numberline {10.1}Logarithms}{52}
+\contentsline {subsection}{\numberline {10.2}Logarithm laws}{52}
+\contentsline {subsection}{\numberline {10.3}Exponential equations using logarithms}{52}
+\contentsline {subsection}{\numberline {10.4}Polynomials}{52}
+\contentsline {subsection}{\numberline {10.5}Expanding and simplifying polynomials}{52}
+\contentsline {subsection}{\numberline {10.6}Division of polynomials}{52}
+\contentsline {subsection}{\numberline {10.7}The remainder and factor theorems}{52}
+\contentsline {subsection}{\numberline {10.8}Solving polynomial equations}{52}
+\contentsline {subsection}{\numberline {10.9}Graphs of polynomials}{52}
